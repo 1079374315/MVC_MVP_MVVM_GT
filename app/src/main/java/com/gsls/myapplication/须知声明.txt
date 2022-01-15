@@ -1,0 +1,3 @@
+使用了GT-DataBinding 绑定的类，会爆红，
+但不用管，这些爆红的文件是需要 GT-DataBinding 自动生成的
+直接运行，就恢复了。
